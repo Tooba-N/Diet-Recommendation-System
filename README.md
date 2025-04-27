@@ -12,6 +12,7 @@ Machine Learning model trained on a dataset of nutritional requirements.
 Simple and easy-to-use interface.
 
 🛠️ Technologies Used
+
 Python
 
 Pandas
@@ -21,11 +22,13 @@ Scikit-learn
 Jupyter Notebook
 
 📂 Dataset
+
 You can download the dataset from the following link and place it in the project folder:
 
 🔗 https://drive.google.com/file/d/156nfUcM4L_yly9jPOQA6iS9s16v4MSHU/view?usp=sharing
 
 How to Run
+
 Clone the repository:
 
 bash
