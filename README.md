@@ -4,6 +4,7 @@ This project is a simple yet powerful Streamlit web application that recommends 
 It uses a Nearest Neighbors machine learning algorithm to suggest meal plans that closely match the user's daily nutritional needs.
 
 Features:
+
 Predicts and recommends personalized diet plans.
 
 Machine Learning model trained on a dataset of nutritional requirements.
